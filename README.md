@@ -1,4 +1,6 @@
-🔭 Postdoc @ University of Glasgow
+🎓 Postdoc @ University of Glasgow
+
+🔭 Physics-informed machine learning
 
 📫 [daithi.odaltuin@gmail.com](mailto:daithi.odaltuin@gmail.com)  / [david.dalton@glasgow.ac.uk](mailto:david.dalton@glasgow.ac.uk)
 
