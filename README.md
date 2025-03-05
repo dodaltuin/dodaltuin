@@ -1,4 +1,9 @@
+🔭 Postdoc @ University of Glasgow
+
+📫 [daithi.odaltuin@gmail.com](mailto:daithi.odaltuin@gmail.com)  / [david.dalton@glasgow.ac.uk](mailto:david.dalton@glasgow.ac.uk)
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dodaltuin)
+
 
 <!--
 **dodaltuin/dodaltuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
