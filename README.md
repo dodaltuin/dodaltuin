@@ -2,13 +2,14 @@
 
 🔭 Physics-informed machine learning
 
-📫 [daithi.odaltuin@gmail.com](mailto:daithi.odaltuin@gmail.com)  / [david.dalton@glasgow.ac.uk](mailto:david.dalton@glasgow.ac.uk)
+📫 daithi.odaltuin [at] gmail [dot] com / david.dalton [at] glasgow [dot] ac [dot] uk
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dodaltuin)
 
-
 <!--
 **dodaltuin/dodaltuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+📫 [daithi.odaltuin@gmail.com](mailto:daithi.odaltuin@gmail.com)  / [david.dalton@glasgow.ac.uk](mailto:david.dalton@glasgow.ac.uk)
 
 Here are some ideas to get you started:
 
